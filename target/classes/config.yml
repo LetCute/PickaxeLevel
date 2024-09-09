@@ -1,0 +1,17 @@
+command: "pickaxe"
+command-desciption: "pickaxelevel"
+
+show-info: "&a[&ePickaxeLevel&a] &7Level: %d&e | &aexp: %d/%d"
+show-max-level: "&a[&ePickaxeLevel&a] &7Level: Max"
+name-pickaxe: "&a[&ePickaxeLevel&a] &f%s &a[&f%d&a]"
+lore-pickaxe: "cầy cúp level nhận enchant trên cúp"
+level-up: "Chúc mừng cúp level của bạn đã lên level %d"
+add-pickaxe: "Bạn đã nhập được cúp level"
+
+next-exp-level: 150
+max-level: 100
+
+ratio-efficiency: 10
+ratio-unbreaking: 4
+ratio-fortune: 4
+
